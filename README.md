@@ -2,7 +2,7 @@
  # ➤ :scroll: INSTALLATION
 ```
 sudo apt install git
-Git clone https://github.com/Goktug-Dusunen/Spectrum
+Git clone http://github.com/Goktug-Dusunen/Spectrum
 ```
 # ➤ :heavy_exclamation_mark: TESTED ON
 ```
